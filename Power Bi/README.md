@@ -6,20 +6,16 @@
 ## 💡 Tools Used
 • Power BI Desktop  
 • Power Query  
-• DAX (if used)
+• DAX 
 
 ## 📊 What It Shows
 – Page 1: Key metrics (e.g., attrition rate, average salary)  
 – Page 2: Department performance  
 – Page 3: Trend visuals over time
 
-## 📁 Files
-• `dashboard.pbix` – Power BI report file  
-• `screenshots/` – Images of dashboard visuals
 
 ## 📸 Preview
-Include here a screenshot:
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Power Bi/dashboard.png)
 
 ## 📌 Key Insights
 List important findings:
