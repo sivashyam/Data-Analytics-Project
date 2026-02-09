@@ -15,7 +15,7 @@
 
 
 ## 📸 Preview
-![Dashboard Screenshot](Power Bi/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## 📌 Key Insights
 List important findings:
