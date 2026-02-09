@@ -4,13 +4,10 @@
 Explain what problem your project solves.  
 Example: “Predict employee attrition using machine learning.”
 
-## 📦 Dataset Information
-Name of dataset and where you got it (or a download link).
-
-## 🛠 Tools Used
+## 🛠 Tools i Used
 Python, Pandas, scikit-learn, Matplotlib, Seaborn
 
-## 🧠 Steps You Followed
+## 🧠 Steps i Followed
 1. Loaded and explored data
 2. Cleaned and preprocessed data
 3. Trained machine learning models
