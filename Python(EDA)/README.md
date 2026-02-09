@@ -30,14 +30,7 @@ The analysis is performed using Python with the following libraries:
 4. **Visualizations** – Creating plots like histograms, scatterplots, boxplots, heatmaps to show relationships.  
 5. **Insights** – Summarizing key findings and possible interpretations.
 
----
 
-## 📊 Example Visualizations
-Include representative images (screenshots) of graphs, e.g.:
-
-![Histogram Example](screenshots/histogram.png)
-
-This helps others quickly see what your analysis looks like.
 
 ---
 
