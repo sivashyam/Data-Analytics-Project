@@ -1,4 +1,4 @@
-# ML Project – [Your Project Title]
+# ML Project – [HR Attrition Predictio]
 
 ## 🔍 Project Description
 Explain what problem your project solves.  
